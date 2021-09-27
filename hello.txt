@@ -4,3 +4,4 @@ hello git! 444444
 hello git! 555555
 hello git!
 hello git! master
+hello git! pull test
